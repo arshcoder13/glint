@@ -1,11 +1,11 @@
 /*
- * Made By Arshal Aromal
+ * Made By arshcoder13
  */
 package glint;
 
 /**
  *
- * @author Ashlyaromal
+ * @author arshcoder13
  */
 public class Main {
 
